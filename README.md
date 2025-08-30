@@ -68,3 +68,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌟 Contribute
 
 Pull requests are welcome! Feel free to fork & improve (new obstacles, sounds, etc.).
+
+---
+
+`Arduino Nano` `LCD` `I2C` `Game Development` `Electronics` `Hardware Projects` `C++`
+
+
