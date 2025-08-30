@@ -1,3 +1,7 @@
+![Arduino](https://img.shields.io/badge/Arduino-Nano-blue?logo=arduino)
+![Made with C++](https://img.shields.io/badge/Made%20with-C++-orange?logo=cplusplus)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 ````markdown
 # 🦖 Chrome Dino Game on 16x2 LCD (Arduino)
 
