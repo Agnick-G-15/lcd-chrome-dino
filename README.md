@@ -32,7 +32,7 @@ The Dino jumps over obstacles like cactuses 🌵 and birds 🐦.
 
 ## 🔌 Circuit Diagram
 *(Add your circuit picture here)*  
-![Circuit](images/circuit.png)
+![Circuit](images/circuit_lcd.png)
 
 Connections:  
 - LCD VCC → 5V  
