@@ -30,8 +30,7 @@ The Dino jumps over obstacles like cactuses 🌵 and birds 🐦.
 
 ---
 
-## 🔌 Circuit Diagram
-*(Add your circuit picture here)*  
+## 🔌 Circuit Diagram  
 ![Circuit](images/circuit_lcd.png)
 
 Connections:  
