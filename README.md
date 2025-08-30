@@ -7,12 +7,10 @@
 
 Recreated the **Chrome Dino Game** on a **16x2 I2C LCD** using **Arduino Nano**.  
 The Dino jumps over obstacles like cactuses 🌵 and birds 🐦.  
-
+````
 ![image alt](images/lcd_dino.jpg)
-https://github.com/Agnick-G-15/lcd-chrome-dino/blob/main/images/lcd_dino.jpg
 
----
-
+````
 ## 🎮 Features
 - Dino character with jump animation  
 - Obstacles: multiple cactus types & flying birds  
@@ -27,13 +25,12 @@ https://github.com/Agnick-G-15/lcd-chrome-dino/blob/main/images/lcd_dino.jpg
 - Arduino Nano (or Uno, Pro Mini, ESP32, etc.)  
 - 16x2 I2C LCD display  
 - 1 push button (for jump/restart)  
-- Breadboard & jumper wires  
+- Breadboard & jumper wires
 
----
-
+````
 ## 🔌 Circuit Diagram  
 ![image alt](images/circuit_lcd.png)
-
+````
 Connections:  
 - LCD VCC → 5V  
 - LCD GND → GND  
