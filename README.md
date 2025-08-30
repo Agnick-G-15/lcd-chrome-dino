@@ -8,7 +8,8 @@
 Recreated the **Chrome Dino Game** on a **16x2 I2C LCD** using **Arduino Nano**.  
 The Dino jumps over obstacles like cactuses 🌵 and birds 🐦.  
 
-![LCD Screenshot](images/lcd_dino.jpg)
+![image alt](images/lcd_dino.jpg)
+
 
 ---
 
@@ -31,7 +32,7 @@ The Dino jumps over obstacles like cactuses 🌵 and birds 🐦.
 ---
 
 ## 🔌 Circuit Diagram  
-![Circuit](images/circuit_lcd.png)
+![image alt](images/circuit_lcd.png)
 
 Connections:  
 - LCD VCC → 5V  
