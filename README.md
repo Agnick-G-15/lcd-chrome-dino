@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ````markdown
-# 🦖 Chrome Dino Game on 16x2 LCD (Arduino)
+# # FunDruino #01: Chrome Dino Game on 16x2 LCD 🦖
 
 Recreated the **Chrome Dino Game** on a **16x2 I2C LCD** using **Arduino Nano**.  
 The Dino jumps over obstacles like cactuses 🌵 and birds 🐦.  
