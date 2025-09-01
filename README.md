@@ -55,7 +55,7 @@ Connections:
 
 ## 📸 Demo
 
-*(You can add GIF or video later)*
+[Linked In](https://www.linkedin.com/posts/agnickghosh_arduino-embeddedsystems-electronics-activity-7367896446659940355-qXaf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFjMA8MBY00uITVavSa9bj04Bi51aavZIos)
 
 ---
 
